@@ -17,7 +17,7 @@ Este es un proyecto básico de portafolio desarrollado con tecnologías web fund
 3. Cada sección del portafolio (como "Mis servicios" o "Proyectos") está estructurada como un **componente** que se genera dinámicamente con los datos del CMS.
 4. Los componentes se renderizan en el DOM según la estructura del HTML base.
 
-## 🚀 Objetivo
+🚀 Objetivo
 
 El objetivo de este proyecto es practicar la integración de un CMS con JavaScript puro y aprender a trabajar con una arquitectura más ordenada usando componentes reutilizables, sin depender de frameworks. Fue un desafio de la carrera. 
 
